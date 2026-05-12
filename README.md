@@ -1,43 +1,62 @@
-# Landing Page Conversion Quick Wins Kit
+# Trained Crow Digital Kits
 
-A practical checklist, scoring rubric, priority matrix, report template, and copy prompt pack for finding landing page improvements without analytics access or private data.
+Practical downloadable kits for improving landing page clarity, buyer trust, and launch readiness.
 
-## Buyer Promise
+## Live Catalog
 
-Review a public landing page and leave with a short, prioritized list of practical improvements in clarity, trust, CTA, mobile readability, and friction.
+Browse the public catalog:
 
-## What Is Included
+https://trainedcrow.github.io/trained-crow-catalog/
 
-- 12-point landing page checklist
-- 0-100 scoring rubric
-- fix priority matrix
-- one-page report template
-- copy rewrite prompts for headlines, CTAs, sections, and FAQs
+Backup catalog repo:
 
-## Who It Is For
+https://github.com/TrainedCrow/trained-crow-catalog
 
-- founders improving a landing page
-- freelancers preparing quick client-facing notes
-- marketers checking a page before a campaign
-- designers and builders reviewing visible UX and copy issues
-- solo operators who want a simple review framework
+## Live Product
 
-## Get The Kit
+### Landing Page Conversion Quick Wins Kit
+
+A practical kit for reviewing a public landing page and finding visible improvements in:
+
+- headline clarity
+- CTA friction
+- trust signals
+- mobile readability
+- fix priority
+- unclear copy sections
+
+## Buy The Live Kit
 
 https://buy.stripe.com/28E8wRbqm8EI1s56Cd7Zu00
 
+## What Is Included
+
+- landing page checklist
+- scoring rubric
+- priority matrix
+- report template
+- copy rewrite prompts
+
+## Coming Soon
+
+These products are prepared or staged internally but are not live yet:
+
+- Product Launch Listing Kit
+- Website Trust Signals Kit
+- Conversion + Launch Starter Bundle
+
+They should not be purchased or advertised as live until delivery is connected.
+
 ## Delivery
 
-After payment, Stripe shows the product download instructions on the confirmation page.
+For the live product, delivery instructions appear after payment.
+
+Private delivery links are not listed publicly.
 
 ## Safe-Use Disclaimer
 
-This is a downloadable digital product. It is not custom consulting, legal advice, financial advice, analytics analysis, a security audit, or a guarantee of conversion lift or revenue.
-
-Use it as a practical framework for visible, public landing page improvements.
+Trained Crow digital kits are downloadable templates and checklists. They are not custom consulting, legal advice, financial advice, analytics analysis, advertising management, security audits, compliance audits, or a guarantee of sales, traffic, rankings, approvals, conversion lift, or revenue.
 
 ## Support
-
-For support, email:
 
 leadmastersinfo@gmail.com
