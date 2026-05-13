@@ -1,6 +1,6 @@
 # Trained Crow Digital Kits
 
-Practical downloadable kits for improving landing page clarity, buyer trust, and launch readiness.
+Practical downloadable kits and public-page review services for improving landing page clarity, buyer trust, and launch readiness.
 
 ## Live Catalog
 
@@ -11,6 +11,20 @@ https://trainedcrow.github.io/trained-crow-catalog/
 Backup catalog repo:
 
 https://github.com/TrainedCrow/trained-crow-catalog
+
+## New Service
+
+### Landing Page Clarity & Trust Report
+
+Get a practical public-page review covering clarity, trust, CTA friction, buyer confidence, mobile/readability, and priority fixes.
+
+Price: EUR 49
+
+Service checkout:
+
+https://buy.stripe.com/14A4gBeCy1cg0o1bWx7Zu01
+
+No backend access, analytics access, login details, or private data required.
 
 ## Live Product
 
@@ -55,7 +69,7 @@ Private delivery links are not listed publicly.
 
 ## Safe-Use Disclaimer
 
-Trained Crow digital kits are downloadable templates and checklists. They are not custom consulting, legal advice, financial advice, analytics analysis, advertising management, security audits, compliance audits, or a guarantee of sales, traffic, rankings, approvals, conversion lift, or revenue.
+Trained Crow digital kits and reports are downloadable products or public-page review services. They are not legal advice, financial advice, analytics analysis, advertising management, security audits, compliance audits, data protection audits, or a guarantee of sales, traffic, rankings, approvals, conversion lift, or revenue.
 
 ## Support
 
